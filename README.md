@@ -8,7 +8,7 @@ Crawls IPV6 in websites.
 
 ## Expressão Regular
 ```
-    ([0-9aA-fF]{1,4}:){1,7}([0-9aA-fF]{1,4})
+    ([0-9aA-fF]{1,4}:){7}([0-9aA-fF]{1,4})
 ```
 
 ## Gramática

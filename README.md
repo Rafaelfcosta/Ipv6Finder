@@ -2,6 +2,10 @@
 
 Crawls IPV6 in websites.
 
+## Automato
+
+![](https://github.com/Rafaelfcosta/Ipv6Finder/blob/master/ipv6_automato.png?raw=true)
+
 ## Expressão Regular
 ```
     ([0-9aA-fF]{1,4}:){1,7}([0-9aA-fF]{1,4})

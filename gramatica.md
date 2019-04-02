@@ -1,15 +1,3 @@
-# Ipv6Finder
-
-Crawls IPV6 in websites.
-
-## Expressão Regular
-```
-    ([0-9aA-fF]{1,4}:){1,7}([0-9aA-fF]{1,4})
-```
-
-## Gramática
-
-```
 S -> [0-9X]A
 A -> [0-9X]B | :E
 B -> [0-9X]C | :E
@@ -57,4 +45,3 @@ J1 -> [0-9X]K1
 K1 -> [0-9X]L1 
 L1 -> [0-9X]M1 
 M1 -> λ
-```
